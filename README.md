@@ -1,6 +1,6 @@
 # 🎸 Guitar
 
-In may 2020 I started taking guitar lessons from Bart Venken. In this repository I'm going to keep track of my progress. Feel free to follow along!
+In may 2020 I started taking classical guitar lessons from Bart Venken. In this repository I'm going to keep track of my progress. Feel free to follow along!
 
 ## 🎼 Current repertoire
 
