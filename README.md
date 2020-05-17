@@ -13,6 +13,9 @@ TODO
 
 ## 🎯 Pieces I hope to play some day
 
+- [La Catedral - Agustín Barrios Mangoré](https://www.youtube.com/watch?v=dmc6KV0_UVM)
+- [Cullare La Tempesta - Scott Ouellette](https://www.youtube.com/watch?v=sqsmDwL6v2w)
+
 ## 📅 Timeline
 
 ### 2020
