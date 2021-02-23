@@ -15,7 +15,19 @@ In may 2020 I started taking classical guitar lessons from Bart Venken (never to
 
 ## 📅 Timeline
 
+### 2021
+
+#### February
+
+- Started learning [Milonga - Juan Buscaglia](https://www.youtube.com/watch?v=qBPML7ton0E)
+
+#### January
+
 ### 2020
+
+#### December
+
+#### November
 
 #### October
 
