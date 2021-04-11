@@ -6,6 +6,9 @@ In may 2020 I started taking classical guitar lessons from Bart Venken (never to
 
 ## 🎼 Current repertoire
 
+- 1. [Lagrima - Francisco Tarrega](https://www.youtube.com/watch?v=ovpFFnQvWiI)
+- 2. [Milonga - Juan Buscaglia](https://www.youtube.com/watch?v=qBPML7ton0E)
+
 ## 🏋️‍♀️ Current practice routine
 
 ## 🎯 Pieces I hope to play some day
@@ -16,6 +19,12 @@ In may 2020 I started taking classical guitar lessons from Bart Venken (never to
 ## 📅 Timeline
 
 ### 2021
+
+#### April
+
+#### March
+
+- Started learning tremolo technique
 
 #### February
 
