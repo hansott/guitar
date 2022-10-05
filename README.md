@@ -1,6 +1,6 @@
 # 🎸 Classical guitar
 
-In may 2020 I started taking classical guitar lessons from Bart Venken (never touched a guitar before). In this repository I'm going to keep track of my progress. Feel free to follow along!
+In may 2020 I started taking classical guitar lessons from Bart Venken. In this repository I'm going to keep track of my progress. Feel free to follow along!
 
 [My piano progress can be found here](https://github.com/hansott/piano)
 
